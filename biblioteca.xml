@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="biblioteca.css"?>
+<?xml-stylesheet type="text/xsl" href="biblioteca.xsl"?>
+
+<biblioteca  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="C:\Users\Hugo\Desktop\ProyectoTema2Lenguaje\miki.webp">
+ 
+  <libro>
+    <imagen>summer.webp</imagen>
+    <titulo>Summer mirando a cámara</titulo>
+    <autor>Milan Kundera</autor>
+    <fechaPublicacion año="1989"/>
+   
+  </libro>
+  <libro>
+    <imagen>miki.webp</imagen>
+    <titulo>Miki de relax</titulo>
+    <autor fechaNacimiento="28/03/1936">Mario Vargas Llosa</autor>
+    <fechaPublicacion año="1973"/>
+  </libro>
+  <libro>
+    <imagen>senda.webp</imagen>
+    <titulo>Senda pegada a las sabanas</titulo>
+    <autor fechaNacimiento="28/03/1936">Mario Vargas Llosa</autor>
+    <fechaPublicacion año="1969"/>
+  </libro>
+ 
+</biblioteca>
